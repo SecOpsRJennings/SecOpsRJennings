@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SecOpsRJennings
+- 👋 Hi, I’m @rpjennings
 - 👀 I’m interested in making life easier for my communities
 - 🌱 I’m currently learning Ansible, Docker, etc
 - 💞️ I’m looking to collaborate on internet-pi
